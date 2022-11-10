@@ -3,8 +3,11 @@ package Branching;
 public class BranchingPractice {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
+	}
+	public void test() {
+		System.out.println("This method is on review Session Branch");
 	}
 
 }
